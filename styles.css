@@ -10,19 +10,19 @@ body{
     padding: 40px 80px;
 }
 h1{
-    font-size: 3rem;
+    font-size: 2.6rem;
 
 }
 h2{
-    font-size: 2.3rem;
+    font-size: 2.1rem;
    
 }
 h3{
-    font-size: 2rem;
+    font-size: 1.8rem;
     
 }
 h4{
-    font-size: 1.5rem;
+    font-size: 1.4rem;
 
 }
 p{
@@ -80,7 +80,7 @@ ul li a:hover{
     position: relative;
 }
 #hero .hero-content{
-    width: 900px;
+
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -179,8 +179,8 @@ font-size: 18px;
 }
 
 .skills-category h3 {
-  font-size: 1.6rem;
-  color: #fff;
+  font-size: 1.8rem;
+  color: rgb(255, 255, 255);
   margin-bottom: 20px;
   border-bottom: 2px solid #5a31b9;
   display: inline-block;
@@ -194,15 +194,16 @@ font-size: 18px;
 .skill span {
   display: block;
   color: #d1c7ff;
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   margin-bottom: 6px;
+  font-weight: 700;
 }
 
 .bar {
   background: rgba(255,255,255,0.1);
   border-radius: 20px;
   overflow: hidden;
-  height: 10px;
+  height: 6px;
 }
 
 .level {
